@@ -1,6 +1,6 @@
 > Epigenomics Annotation 
 > 
-> nearly last for two mouthe 
+> nearly last for two mouthes
 > 
 > 2022-07-01 —— 2022-08-29
 
@@ -160,6 +160,10 @@ awk '$8>0' Hs_repeat.bed.gz.giggle.H3K4me3_all.result >repeat_positive.H3K4me3.r
 (2)将待构建索引的文件进行排序。
 
 (3)根据比对结果用R画图——heatmap不太友好。
+
+#现在再把这个过程再理一理，然后师弟加入了这个筛选的过程。我理一下，如何把这部分的内容拆出来，让师弟也参与其中。
+#现在就这样吧。
+
 
 
 
